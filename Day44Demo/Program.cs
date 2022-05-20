@@ -3,5 +3,11 @@ using Day44Demo;
 
 
 
-ExceptionHandlingSample s= new ExceptionHandlingSample();
-s.Sample5();
+//ExceptionHandlingSample s= new ExceptionHandlingSample();
+//s.Sample5();
+
+//CopyConstructorSample s = new CopyConstructorSample();
+//s.Demo();
+
+DisposeSample s = new DisposeSample();
+s.Demo();
