@@ -9,5 +9,8 @@ using Day44Demo;
 //CopyConstructorSample s = new CopyConstructorSample();
 //s.Demo();
 
-DisposeSample s = new DisposeSample();
+//DisposeSample s = new DisposeSample();
+//s.Demo();
+
+ExtensionSample s = new ExtensionSample();
 s.Demo();

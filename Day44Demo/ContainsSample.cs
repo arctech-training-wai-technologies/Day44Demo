@@ -25,7 +25,7 @@ namespace Day44Demo
        
     }
 
-    public class house 
+    public class house
     {
         private Fan fan;
         private Ceiling ceiling;
@@ -41,11 +41,13 @@ namespace Day44Demo
             Console.WriteLine(fan.model);
         }
 
-        public Fan fanHouse { get
+        public Fan fanHouse
+        {
+            get
             {
                 return fan;
             }
+        }
+
     }
-
-
 }
